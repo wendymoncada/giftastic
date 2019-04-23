@@ -1,0 +1,17 @@
+body {
+    background-image: url("../assets/memphis-mini.png");
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+button {
+    background-color: #E1D531;
+    color: white;
+    border-radius: 8px;
+    border: none;
+    padding: 7px 24px;
+    margin: 2px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+}
